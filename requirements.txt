@@ -1,0 +1,4 @@
+# Small dependencies for S3 collection and release validation.
+# Use pip install -e '.[quality,render]' for all local pipeline stages.
+boto3>=1.34,<2
+Pillow>=10

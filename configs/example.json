@@ -1,0 +1,38 @@
+{
+  "base_dir": "..",
+  "paths": {
+    "work": "work",
+    "source": "work/sources",
+    "recovery": "work/recovery",
+    "corpus": "work/internal/Corpus",
+    "selected": "work/internal/5K",
+    "release_corpus": "work/release/FigAgent-Corpus",
+    "release_5k": "work/release/FigAgent-5K",
+    "scratch": null
+  },
+  "workers": 1,
+  "drawio_bin": "drawio",
+  "collection": {
+    "backend": "local",
+    "from_month": "2410",
+    "to_month": "2410",
+    "cloud_workers": 1,
+    "max_hours": 168
+  },
+  "text": {
+    "provider": "markdown",
+    "source_fallback": true,
+    "lightweight_fallback": false,
+    "fetch_categories": true
+  },
+  "quality": {
+    "legacy_root": null,
+    "cs_only": true,
+    "gpu": 0,
+    "retain_fraction": 0.6,
+    "margin_threshold": 2.75,
+    "structure_threshold": 0.70263536,
+    "expected_papers": null,
+    "frozen_policy": "configs/frozen_5k_policy.json"
+  }
+}

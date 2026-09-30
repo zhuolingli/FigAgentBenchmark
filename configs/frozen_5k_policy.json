@@ -1,0 +1,54 @@
+{
+  "hard_limits": {
+    "extreme_edge_count": 250,
+    "extreme_edge_vertex_ratio": 8.0,
+    "max_aspect": 9.334355025000002,
+    "max_ink_ratio": 0.995,
+    "max_pixels": 50264417,
+    "min_elements": 6,
+    "min_gray_std": 2.0,
+    "min_ink_ratio": 0.02,
+    "min_pixels": 20000,
+    "min_side": 80,
+    "min_vertices": 3
+  },
+  "score_caps_p95_or_p90": {
+    "edges": 51.0,
+    "elements": 179.0,
+    "pixels": 2147746.500000001,
+    "texts": 58.0
+  },
+  "soft_limits": {
+    "aspect_p95": 4.48864005,
+    "elements_p99": 372.0
+  },
+  "model": "google/siglip2-base-patch16-224",
+  "revision": "75de2d55ec2d0b4efc50b3e9ad70dba96a7b2fa2",
+  "positive_prompts": [
+    "a polished scientific method diagram",
+    "a clear system architecture diagram",
+    "a complete technical workflow or flowchart",
+    "a machine learning model architecture diagram",
+    "a technical pipeline with connected components",
+    "an algorithm process diagram",
+    "a conceptual research framework diagram",
+    "a technical scheduling or optimization diagram"
+  ],
+  "negative_prompts": [
+    "a statistical bar chart",
+    "a line plot or scatter plot",
+    "a data table",
+    "a screenshot of a software user interface",
+    "a photograph or decorative illustration",
+    "a mathematical plot or heatmap",
+    "a repeated grid or pattern image",
+    "a scientific results figure with multiple plots",
+    "an ablation study or benchmark results figure",
+    "a collage of disconnected figure panels",
+    "a sparse unfinished or poorly formatted diagram"
+  ],
+  "image_views": "dual",
+  "retain_fraction": 0.6,
+  "margin_threshold": 2.75,
+  "structure_threshold": 0.70263536
+}

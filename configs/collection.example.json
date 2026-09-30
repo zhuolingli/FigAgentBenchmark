@@ -1,0 +1,29 @@
+{
+  "base_dir": "..",
+  "paths": {
+    "work": "work",
+    "source": "work/sources",
+    "recovery": "work/recovered",
+    "corpus": "work/papers",
+    "selected": "work/curated",
+    "release_corpus": "work/export/papers",
+    "scratch": null,
+    "release_selected": "work/export/curated"
+  },
+  "workers": 1,
+  "drawio_bin": "tools/drawio-headless.sh",
+  "collection": {
+    "backend": "local",
+    "from_month": "2410",
+    "to_month": "2410"
+  },
+  "text": {
+    "provider": "markdown",
+    "source_fallback": true,
+    "fetch_categories": false
+  },
+  "quality": {
+    "cs_only": false,
+    "expected_papers": null
+  }
+}

@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+work/
+data/
+outputs/
+archives/
+*.tar
+*.tar.gz
+*.gz
+*.png
+*.drawio
+*.pdf
+.env
+.env.*
+*credentials*
+*token*
+aws_key.txt
+*.partial
+.DS_Store
+
+# Tool-generated local environment lock; published model pins live in configs.
+uv.lock
