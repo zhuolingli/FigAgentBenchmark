@@ -4,8 +4,8 @@
 
 | Collection | Google Drive | Baidu Netdisk |
 |---|---|---|
-| FigAgent-5K | [Download](https://drive.google.com/drive/folders/1UJHgOX6-kbPtGBjqMMbB587NQNo1w7H4) | Coming soon |
-| FigAgent-Corpus | [Download](https://drive.google.com/drive/folders/1vKXFKnVKzLLUC1PeO-1mfhq1uhouPNHk) | Coming soon |
+| FigAgent-5K | [Download](https://drive.google.com/drive/folders/1UJHgOX6-kbPtGBjqMMbB587NQNo1w7H4) | [Download](https://pan.baidu.com/s/1tomjm8H9aMczEc-K2nUiOw?pwd=rxv9) (code: `rxv9`) |
+| FigAgent-Corpus | [Download](https://drive.google.com/drive/folders/1vKXFKnVKzLLUC1PeO-1mfhq1uhouPNHk) | [Download](https://pan.baidu.com/s/1tomjm8H9aMczEc-K2nUiOw?pwd=rxv9) (code: `rxv9`) |
 
 This repository provides **FigAgent-5K** and **FigAgent-Corpus**, with dataset descriptions, download resources, and collection code.
 
