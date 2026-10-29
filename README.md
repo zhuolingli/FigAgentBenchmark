@@ -168,7 +168,7 @@ The reader enumerates paper folders and matches PNG pages to DrawIO documents by
 
 Collection and curation code is released under the **MIT license**. Paper texts and figure assets retain their original source licenses and authors' rights.
 
-If you use the datasets or collection code, please cite:
+If you find the datasets or collection code useful, please cite:
 
 ```bibtex
 @inproceedings{li2026figagent,
