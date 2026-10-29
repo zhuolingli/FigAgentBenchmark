@@ -171,10 +171,16 @@ Collection and curation code is released under the **MIT license**. Paper texts 
 If you use the datasets or collection code, please cite:
 
 ```bibtex
-@article{li2026figagent,
-  title={Automatic Method Illustration Generation for AI Scientific Papers via Drawing Middleware Creation, Evolution, and Orchestration},
+@inproceedings{li2026figagent,
+  title={Automatic Method Illustration Generation for {AI} Scientific Papers via Drawing Middleware Creation, Evolution, and Orchestration},
   author={Li, Zhuoling and Zhang, Jiarui and Hu, Ping and Kuen, Jason and Gu, Jiuxiang and Rahmani, Hossein and Liu, Jun},
-  journal={arXiv preprint arXiv:2603.29590},
-  year={2026}
+  booktitle={Computer Vision -- ECCV 2026},
+  series={Lecture Notes in Computer Science},
+  volume={17059},
+  pages={530--548},
+  publisher={Springer},
+  year={2026},
+  doi={10.1007/978-3-032-37086-0_29},
+  url={https://doi.org/10.1007/978-3-032-37086-0_29}
 }
 ```
